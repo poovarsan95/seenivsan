@@ -11,4 +11,13 @@ public class Frames {
    private void empph() {
 
 }
+   private void empAddress() {
+	// TODO Auto-generated method stub
+
+}
+   private void empFatherName() {
+	// TODO Auto-generated method stub
+
+}
+   
 }
